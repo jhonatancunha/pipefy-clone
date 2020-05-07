@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/max/4000/1*-dy70uysIH0N9MfVVitzgg.png" alt="">
 
 <h1 align="center">Pipefy Clone - ReactJS<h1>
 <p align="center">
@@ -10,14 +11,16 @@
 
 </p>
 
-## :computer: WebView
 
-<h4 align="center">
+<a id="sobre"></a>
+## :bookmark: Sobre 
+<p align="center">
     Tentativa de recriação da interface do Pipefy com objeto de entender o conceito de Drag N' Drop.
-</h4>
+</p>
 
 <br>
 
+## :computer: WebView
 <p align="center">
     <img src="imgs/index.gif" alt="">
 </p>
@@ -46,4 +49,6 @@ $ yarn start
 
 <br>
 
+<p align="center">
 Criado com :coffee: por Jhonatan Cunha.
+</p>
