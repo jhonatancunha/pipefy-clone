@@ -22,7 +22,7 @@
 
 ## :computer: WebView
 <p align="center">
-    <img src="imgs/index.gif" alt="">
+    <img src="imgs/profile.png" alt="">
 </p>
 
 
