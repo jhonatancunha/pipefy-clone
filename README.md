@@ -1,9 +1,10 @@
-<div>
+
 <h1 align="center">Pipefy Clone - ReactJS<h1>
+<p align="center">
 <img src="https://img.shields.io/github/repo-size/jhonatancunha/pipefy-clone" alt="">
 <img src="https://img.shields.io/github/license/jhonatancunha/pipefy-clone" alt="">
 <img src="https://img.shields.io/github/last-commit/jhonatancunha/pipefy-clone?style=plastic" alt="">
-</div>
+</p>
 
 <p align="center>
 
@@ -27,7 +28,7 @@
 
 - [ReactJS]
 
-## 💻 Como utilizar?
+## ❓ Como utilizar?
 
 ### Instalação
 
@@ -36,5 +37,13 @@ $ cd pipefy-clone
 $ yarn
 $ yarn start
 ```
+
+<br>
+
+## 🎓 Quem ensinou?
+
+- As aulas foram ministradas por [Diego Fernandes](https://www.youtube.com/watch?v=awRtgpRsdTQ) em videos no youtube.
+
+<br>
 
 Criado com :coffee: por Jhonatan Cunha.
